@@ -1,3 +1,3 @@
 YahooFinance
 ============
-At the moment, I'm just scraping the price of Amazon stock. I'll think about what I want to do with this later
+At the moment, I'm just scraping the price of stocks in my simulated portfolio. Not positive what do with the data at the moment
